@@ -1,0 +1,6 @@
+{
+  "name": "Mopani Catch",
+  "description": "A fun and fast-paced tap arcade game where you catch cute Mopani worms before time runs out!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
